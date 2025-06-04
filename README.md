@@ -1,6 +1,13 @@
-# 👋 Hi, I'm Santy Sharma
+<h1 align="center">Hey there, I'm <strong>Santy Sharma</strong> 👋</h1>
 
-I'm a passionate developer with a love for clean code, automation, and building meaningful digital experiences. I enjoy exploring new technologies, solving real-world problems, and contributing to the open-source community.
+<p align="center">
+  🚀 Developer | 💡 Problem Solver | 🌐 Tech Enthusiast <br>
+  <em>"Turning ideas into reality with code."</em>
+</p>
+
+---
+
+I'm a passionate developer who loves building impactful projects, exploring new tech, and contributing to open-source. Whether it's web apps, automation, or data-driven solutions — I enjoy it all.
 
 ---
 
@@ -32,7 +39,7 @@ I'm a passionate developer with a love for clean code, automation, and building 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santysharmaa&layout=compact&theme=radical)
 
-> Note: Top languages are only a metric of the public repositories.
+> _Note: Top languages only reflect code from public repositories._
 
 ---
 
@@ -44,4 +51,3 @@ I'm a passionate developer with a love for clean code, automation, and building 
 ---
 
 _Thanks for visiting my profile! Feel free to check out my repositories and connect with me._
-
