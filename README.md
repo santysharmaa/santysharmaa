@@ -31,7 +31,7 @@ I'm a passionate developer who loves building impactful projects, exploring new 
 
 ## 🔥 Contribution Streak
 
-![Santy's GitHub Streak](https://streak-stats.demolab.com?user=santysharmaa&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://streak-stats.demolab.com?user=santysharmaa&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
