@@ -1,53 +1,111 @@
-<h1 align="center">Hey there, I'm <strong>Santy Sharma</strong> 👋</h1>
+<h1 align="center">Hi 👋, I'm Santy Sharma</h1>
+<h3 align="center">🚀 Full Stack Developer | 🤖 ML Enthusiast | 🎸 Guitarist</h3>
 
 <p align="center">
-  🚀 Developer | 💡 Problem Solver | 🌐 Tech Enthusiast <br>
-  <em>"Turning ideas into reality with code."</em>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&lines=Santy+Sharma;Full+Stack+Developer;Machine+Learning+Enthusiast;DevOps+Learner;Building+Cool+Things+🚀">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=santysharmaa&label=Profile%20Views&color=00ff00&style=flat" />
 </p>
 
 ---
 
-I'm a passionate developer who loves building impactful projects, exploring new tech, and contributing to open-source. Whether it's web apps, automation, or data-driven solutions — I enjoy it all.
+## 🧑‍💻 About Me
+
+* 🎓 3rd Year **Computer Science Engineering** (Data Science Minor)
+* 🔭 Working on **AI + Web Development Projects**
+* 🌱 Currently learning **DevOps & System Design**
+* 👯 Open to collaborate on **Full Stack & ML Projects**
+* ⚔️ Love building real-world impactful applications
+* 🎸 Music + Code = Perfect combo
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🌐 Connect with Me
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+<p align="center">
+  <a href="https://www.linkedin.com/in/santyy/">
+    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:santy.sharma2572@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00ff00?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://santysharmaa.github.io/Globetalk-Companion---AI-Powered-Travel-Language-Assistant/">
+    <img src="https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![Santy Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santysharmaa&show_icons=true&theme=radical&count_private=true&hide_title=true)
+### 💻 Languages
+
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge\&logo=c%2B%2B\&logoColor=00ff00)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge\&logo=python\&logoColor=00ff00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=00ff00)
+
+### 🌐 Web
+
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge\&logo=react\&logoColor=00ff00)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge\&logo=node.js\&logoColor=00ff00)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge\&logo=express\&logoColor=00ff00)
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge\&logo=git\&logoColor=00ff00)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge\&logo=docker\&logoColor=00ff00)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=00ff00)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge\&logo=mongodb\&logoColor=00ff00)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge\&logo=mysql\&logoColor=00ff00)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santysharmaa&show_icons=true&theme=chartreuse-dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santysharmaa&layout=compact&theme=chartreuse-dark&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=santysharmaa&theme=radical&date_format=M%20j%5B%2C%20Y%5D&exclude_days=0)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=santysharmaa&theme=chartreuse-dark&hide_border=true"/>
+</p>
 
 ---
 
-## 📊 Top Languages
+## 📈 Activity Graph
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santysharmaa&layout=compact&theme=radical)
-
-> _Note: Top languages only reflect code from public repositories._
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santysharmaa)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:santy.sharma2572@gmail.com)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santysharmaa&theme=chartreuse-dark&hide_border=true"/>
+</p>
 
 ---
 
-_Thanks for visiting my profile! Feel free to check out my repositories and connect with me._
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+* 🌍 **Globetalk** – AI-powered travel language assistant
+* 🎵 **Gesture Controlled Media System**
+* 🤖 More ML + Full Stack projects coming soon...
+
+---
+
+<p align="center">
+  ⚡ <strong>"Code. Build. Repeat."</strong>
+</p>
