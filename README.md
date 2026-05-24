@@ -100,11 +100,11 @@
 
 ## 🚀 Featured Projects
 
-* 🌍 **Globetalk** – AI-powered travel language assistant
-* 🎵 **Gesture Controlled Media System**
-* 🤖 More ML + Full Stack projects coming soon...
 
----
+🤖 Smart AI Assistant – Intelligent AI assistant with conversational capabilities, task automation, and context-aware interactions using modern AI/LLM technologies.
+🏢 StaffHub – Full-stack staff and workforce management platform designed to streamline employee coordination, scheduling, and organizational workflows.
+🎵 Gesture Controlled Media System – Computer vision–based media controller using hand gesture recognition for touchless interaction.
+🚀 More AI, ML, and Full Stack projects coming soon...
 
 <p align="center">
   ⚡ <strong>"Code. Build. Repeat."</strong>
