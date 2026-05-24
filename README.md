@@ -31,7 +31,7 @@
   <a href="mailto:santy.sharma2572@gmail.com">
     <img src="https://img.shields.io/badge/Email-00ff00?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  <a href="https://santysharmaa.github.io/Globetalk-Companion---AI-Powered-Travel-Language-Assistant/">
+  <a href="santysharma.me">
     <img src="https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=google-chrome&logoColor=black"/>
   </a>
 </p>
