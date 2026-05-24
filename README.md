@@ -31,7 +31,7 @@
   <a href="mailto:santy.sharma2572@gmail.com">
     <img src="https://img.shields.io/badge/Email-00ff00?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  <a href="santysharma.me">
+  <a href="https://santysharma.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=google-chrome&logoColor=black"/>
   </a>
 </p>
