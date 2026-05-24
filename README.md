@@ -100,8 +100,6 @@
 
 ## 🚀 Featured Projects
 
-* 🌍 **GlobeTalk** – AI-powered travel language assistant for real-time multilingual communication and travel support.
-
 * 🤖 **Smart AI Assistant** – Intelligent AI assistant with conversational capabilities, task automation, and context-aware interactions using modern AI/LLM technologies.
 
 * 🏢 **StaffHub** – Full-stack staff and workforce management platform designed to streamline employee coordination, scheduling, and organizational workflows.
